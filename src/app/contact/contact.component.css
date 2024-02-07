@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+}
+h2{
+color: #2C3E50;
+}
+
+button{
+    background-color: #1ABC9C;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 5px;
+    border-color: transparent;
+}

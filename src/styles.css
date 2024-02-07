@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+/* body{
+    background-color: #1ABC9C ;
+} */
+
+h2{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}

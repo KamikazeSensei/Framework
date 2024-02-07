@@ -1,0 +1,19 @@
+nav{
+    background-color: #2C3E50;
+    color: white;
+font-size: 16px;
+font-weight: 700;
+    a{
+color: white;
+    }
+}
+
+.bg-active{
+    background-color: #1ABC9C;
+}
+
+.navbar{
+    --bs-navbar-hover-color: none;
+    --bs-navbar-active-color:none;
+    --bs-navbar-brand-hover-color:none;
+}
